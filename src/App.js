@@ -21,10 +21,35 @@ function App() {
             </div>
           </div>
           
-          <img src="assets/section1.svg" width="60%"></img>
+          <img src="assets/section1.svg"></img>
         </div>
         
       </div>
+      <footer className="App-footer">
+          <div className="container">
+            <div className="cont">
+              <h1>Contact</h1>
+              <p>+216 99 865 808</p>
+              <p>hamdouni.medamin@gmail.com</p>
+              <p>Residence Malek A3-3 Centre Urbain Nord BP, Tunis</p>
+            </div>
+            <div className="social">
+              <img src="assets/linkedin.svg" width="60px"></img>
+            </div>
+            <div className="social">
+            <img src="assets/facebook.svg" width="60px"></img>
+            </div>
+            <div className="social">
+            <img src="assets/instagram.svg" width="60px"></img>
+            </div>
+          </div> 
+          <div className="foot">
+            <div className="container">
+              <p>Made By Med Amine Hamdouni</p>
+            </div>
+            
+          </div>  
+      </footer>
     </div>
   );
 }
