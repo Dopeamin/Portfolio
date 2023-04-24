@@ -245,7 +245,7 @@ class App extends Component{
 
     <div class="item">
       <h2>Mehdy Bhiri</h2>
-          <h3>Buisiness Men</h3>
+          <h3>Businessman</h3>
           <p>Quite impressed by his devotion and communication skills</p>
       </div>
   </div>
